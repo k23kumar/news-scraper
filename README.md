@@ -1,1 +1,1 @@
-# news-scraper
+# news-scraper: this app utilizes the scraping technique via mongoose and cheerio to scrape data from the San Francisco Chronicle website to render titles and links to articles on a unique website. The site also allows users to post and delete commments and view others' comments. 
